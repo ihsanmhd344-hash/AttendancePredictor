@@ -10,7 +10,7 @@ still be missed, how many must be attended to reach the required percentage, and
 what happens if the next few classes are skipped.
 
 ## Features
-- Add, delete and update subjects (Theory and Lab, with different required percentages)
+- Add and delete subjects (Theory and Lab, with different required percentages), and mark classes present or absent
 - Current attendance percentage per subject and overall
 - Safe absences right now and classes needed from the remaining classes
 - "What if I skip the next N classes?" simulator
